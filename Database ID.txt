@@ -1,0 +1,7 @@
+Connect: localhost
+
+Database name: id19338269_contact_form
+
+Database username: id19338269_contactdb
+
+Database Password: *<fY5]DcZ6@hzWPW
