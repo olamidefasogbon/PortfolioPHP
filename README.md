@@ -1,3 +1,3 @@
 # PortfolioPHP
 # Welcome!
-# This Is My First Portfolio Website Project with Database Using PHP and My sql
+# This Is a Portfolio Website Project built using Javscript, CSS, PHP, MySQL, 
